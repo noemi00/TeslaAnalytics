@@ -3,8 +3,11 @@
 This repository contains a **data processing and analytics project** based on a Python task for handling car data and fuel efficiency.
 
 ## Datasets
-- **train.csv** → Contains car models, brands, years, and prices.
-- **vehicles.csv** → Includes fuel efficiency metrics such as Combined MPG.
+The data set and along with its documentation can be found here: 
+- **base.csv** → Contains car models, brands, years, and prices.
+  - [https://www.kaggle.com/datasets/sidharth178/car-prices-dataset?select=train.csv](https://www.kaggle.com/datasets/sidharth178/car-prices-dataset?select=train.csv)
+- **fuel.csv** → Includes fuel efficiency metrics such as Combined MPG.
+  - [https://fueleconomy.gov/feg/download.shtml](https://fueleconomy.gov/feg/download.shtml)
 
 ## Tasks overview
 - Load and clean car pricing and fuel efficiency data.
