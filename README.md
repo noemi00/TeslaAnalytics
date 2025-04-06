@@ -20,3 +20,5 @@ The data set along with its documentations can be found here:
 1. Clone the repository:
    ```bash
    git clone https://github.com/noemi00/TeslaAnalytics.git
+
+
